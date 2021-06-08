@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const ImgWrapper = styled.div`
     margin: 0 auto;
     width: 256px;
-    background-color: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background-color:#FFFFFF;
     border-radius: 25px;
     overflow: hidden;
     height: 261px;

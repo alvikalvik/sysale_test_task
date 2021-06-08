@@ -8,7 +8,7 @@ const StyledComparationLabel = styled.div`
     width: 46px;
     height: 46px;
     background-color: #FFFFFF;
-    background-image: url('/img/copmare-icon.svg');
+    background-image: url('img/copmare-icon.svg');
     background-position: center center;
     background-repeat: no-repeat;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
@@ -18,7 +18,7 @@ const StyledComparationLabel = styled.div`
         background-color: #F9FAFC;
     }    
     &:active {
-        background-image: url('/img/compare-icon-clicked.svg');
+        background-image: url('img/compare-icon-clicked.svg');
     }    
 `;
 
