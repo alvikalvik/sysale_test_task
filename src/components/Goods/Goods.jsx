@@ -23,7 +23,7 @@ const Goods = (props) => {
           id: 1,
           title: `Шампунь`,
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.`,
-          img: `/img/shampoo1@2x.png`,
+          img: `img/shampoo1@2x.png`,
           hidedImg: ``,
           color: `Цвет`,
           availableColors: [
@@ -57,8 +57,8 @@ const Goods = (props) => {
           id: 2,
           title: `Шампунь`,
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.`,
-          img: `/img/shampoo2@2x.png`,
-          hidedImg: `/img/hovered-shampoo2@2x.png`,
+          img: `img/shampoo2@2x.png`,
+          hidedImg: `img/hovered-shampoo2@2x.png`,
           color: `Цвет`,
           availableColors: [
             'Желтый',
@@ -91,8 +91,8 @@ const Goods = (props) => {
           id: 3,
           title: `Шампунь`,
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.`,
-          img: `/img/shampoo3@2x.png`,
-          hidedImg: `/img/hovered-shampoo3@2x.png`,
+          img: `img/shampoo3@2x.png`,
+          hidedImg: `img/hovered-shampoo3@2x.png`,
           color: `Цвет`,
           availableColors: [
             'Желтый',
