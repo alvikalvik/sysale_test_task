@@ -1,3 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'SF UI Display';
+}
+
+@font-face {
+  font-family: 'SF UI Display';
+  src: url('./assets/fonts/SFUIDisplay-Regular.eot');
+  src: local('SF UI Display Regular'), local('SFUIDisplay-Regular'),
+      url('./assets/fonts/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./assets/fonts/SFUIDisplay-Regular.woff2') format('woff2'),
+      url('./assets/fonts/SFUIDisplay-Regular.woff') format('woff'),
+      url('./assets/fonts/SFUIDisplay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF UI Display';
+  src: url('./assets/fonts/SFUIDisplay-Semibold.eot');
+  src: local('SF UI Display Semibold'), local('SFUIDisplay-Semibold'),
+      url('./assets/fonts/SFUIDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+      url('./assets/fonts/SFUIDisplay-Semibold.woff2') format('woff2'),
+      url('./assets/fonts/SFUIDisplay-Semibold.woff') format('woff'),
+      url('./assets/fonts/SFUIDisplay-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF UI Display';
+  src: url('./assets/fonts/SFUIDisplay-Medium.eot');
+  src: local('SF UI Display Medium'), local('SFUIDisplay-Medium'),
+      url('./assets/fonts/SFUIDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+      url('./assets/fonts/SFUIDisplay-Medium.woff2') format('woff2'),
+      url('./assets/fonts/SFUIDisplay-Medium.woff') format('woff'),
+      url('./assets/fonts/SFUIDisplay-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
 .App {
   text-align: center;
 }
